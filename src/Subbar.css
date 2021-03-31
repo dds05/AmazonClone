@@ -1,0 +1,19 @@
+.subbar{
+    display: flex;
+    height: 35px;
+    background-color: #232f3e;
+    position: sticky;
+    z-index: 1;
+    justify-content: space-evenly;
+    color: white;
+    
+}
+
+.text:hover{
+    cursor: pointer;
+}
+
+.text{
+  
+    padding-top: 3px;
+}

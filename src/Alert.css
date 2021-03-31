@@ -1,0 +1,9 @@
+.alertadded{
+    color: green;
+    font-weight: 600;
+}
+
+.alertremoved{
+    color:red;
+    font-weight: 600;
+}
